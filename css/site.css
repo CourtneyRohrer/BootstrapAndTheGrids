@@ -1,6 +1,10 @@
 main>.container {
     padding: 60px 15px 0;
 }
+body> main {
+    margin-bottom: 60px;
+    margin-top: 20px;
+}
 
 .homeBG {
     width: 100%;
